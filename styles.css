@@ -1,0 +1,13 @@
+body{
+    background: #070c1b;
+    display: flex;
+}
+h1{
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background: #101d41;
+    border-radius: 10px;
+    padding: 2px 5px;
+}
